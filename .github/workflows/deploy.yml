@@ -44,7 +44,10 @@ jobs:
         run: quarto render
       
       - name: Build JupyterLite
-        run: jupyter-lite build --output-dir _site/jupyterlite
+        run: |
+          jupyter-lite build --contents jupyterlite/content --output-dir _site/jupyterlite
+          mkdir -p _site/jupyterlite/content
+          cp -r jupyterlite/content/* _site/jupyterlite/content/
       
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

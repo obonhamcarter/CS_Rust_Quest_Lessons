@@ -39,6 +39,24 @@ cd hello_rust
 cargo run
 ```
 
+### Option 3: Local Jupyter + Rust Kernel (`evcxr_jupyter`)
+
+Yes—this is the best notebook-style Rust workflow beyond Rust Playground.
+
+Install Rust first, then:
+
+```bash
+cargo install evcxr_jupyter
+evcxr_jupyter --install
+jupyter lab
+```
+
+In JupyterLab, select the **Rust** kernel when creating/opening notebooks.
+
+Notes:
+- This is a local setup (not fully browser-only like Rust Playground).
+- It gives a real Rust REPL notebook experience with cells.
+
 ## 📚 Lesson Notebooks in This Project
 
 This Rust Quest includes notebooks for Quests 1-19:

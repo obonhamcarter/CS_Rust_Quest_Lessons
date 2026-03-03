@@ -59,6 +59,16 @@ rustc --version
 cargo --version
 ```
 
+3. **Local Jupyter + Rust kernel (`evcxr_jupyter`)**:
+
+```bash
+cargo install evcxr_jupyter
+evcxr_jupyter --install
+jupyter lab
+```
+
+Then choose the **Rust** kernel in JupyterLab.
+
 ## Notes
 
 - All Quests 1-19 are now Rust-focused in lesson pages and generated notebooks.

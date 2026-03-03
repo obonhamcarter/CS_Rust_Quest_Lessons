@@ -13,7 +13,7 @@ format:
 ::: {.tip-box}
 **💻 Practice Options:**
 - 🦀 [Open Rust Playground](https://play.rust-lang.org/)
-- 📓 [Open Notebook](../jupyterlite/content/13-iterative-loops.ipynb)
+- 📓 [View Notebook](../files/lessons/13-iterative-loops.ipynb)
 - 📥 [Download Notebook](../files/lessons/13-iterative-loops.ipynb)
 :::
 

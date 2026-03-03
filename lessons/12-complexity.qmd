@@ -13,7 +13,7 @@ format:
 ::: {.tip-box}
 **💻 Practice Options:**
 - 🦀 [Open Rust Playground](https://play.rust-lang.org/)
-- 📓 [Open Notebook](../jupyterlite/content/12-complexity.ipynb)
+- 📓 [View Notebook](../files/lessons/12-complexity.ipynb)
 - 📥 [Download Notebook](../files/lessons/12-complexity.ipynb)
 :::
 

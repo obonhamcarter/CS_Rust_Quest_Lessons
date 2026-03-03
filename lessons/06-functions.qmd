@@ -13,7 +13,7 @@ format:
 ::: {.tip-box}
 **💻 Practice Options:**
 - 🦀 [Open Rust Playground](https://play.rust-lang.org/)
-- 📓 [Open Notebook](../jupyterlite/content/06-functions.ipynb)
+- 📓 [View Notebook](../files/lessons/06-functions.ipynb)
 - 📥 [Download Notebook](../files/lessons/06-functions.ipynb)
 :::
 

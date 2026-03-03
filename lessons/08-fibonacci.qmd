@@ -13,7 +13,7 @@ format:
 ::: {.tip-box}
 **💻 Practice Options:**
 - 🦀 [Open Rust Playground](https://play.rust-lang.org/)
-- 📓 [Open Notebook](../jupyterlite/content/08-fibonacci.ipynb)
+- 📓 [View Notebook](../files/lessons/08-fibonacci.ipynb)
 - 📥 [Download Notebook](../files/lessons/08-fibonacci.ipynb)
 :::
 
