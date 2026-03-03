@@ -1,0 +1,125 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "index.qmd"
+    - "all-quests.qmd"
+    - "interactive.qmd"
+    - "lessons/01-variables.qmd"
+    - "lessons/02-data-types.qmd"
+    - "lessons/03-conditionals.qmd"
+    - "lessons/04-loops.qmd"
+    - "lessons/05-lists.qmd"
+    - "lessons/06-functions.qmd"
+    - "lessons/07-dictionaries.qmd"
+    - "lessons/08-fibonacci.qmd"
+    - "lessons/09-sorting.qmd"
+    - "lessons/10-number-game.qmd"
+    - "lessons/11-recursion.qmd"
+    - "lessons/12-complexity.qmd"
+    - "lessons/13-iterative-loops.qmd"
+    - "lessons/14-functions-non-returning.qmd"
+    - "lessons/15-functions-returning.qmd"
+    - "lessons/16-lambda-functions.qmd"
+    - "lessons/17-higher-order-functions.qmd"
+    - "lessons/18-decorators.qmd"
+    - "lessons/19-classes.qmd"
+    - "sitedocs/*.md"
+  resources:
+    - files/**
+    - jupyterlite/content/**
+
+website:
+  title: "Rust Quest - Coding Adventures"
+  description: "Friendly Rust mini-lessons for complete beginners"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "All Quests"
+        file: all-quests.qmd
+      - text: "🧪 Practice Tools"
+        file: interactive.qmd
+    right:
+      - icon: github
+        href: https://github.com
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "Begin Your Rust Journey"
+        contents:
+          - text: "Quest 1: Variables - Your Starter Toolkit"
+            file: lessons/01-variables.qmd
+          - text: "Quest 2: Data Types - The Shape of Data"
+            file: lessons/02-data-types.qmd
+          - text: "Quest 3: Conditionals - Choose Your Path"
+            file: lessons/03-conditionals.qmd
+          - text: "Quest 4: Loops - Repeat with Confidence"
+            file: lessons/04-loops.qmd
+          - text: "Quest 5: Vectors - Collecting Data"
+            file: lessons/05-lists.qmd
+          - text: "Quest 6: Functions - Reusable Steps"
+            file: lessons/06-functions.qmd
+          - text: "Quest 7: HashMaps - Keys and Values"
+            file: lessons/07-dictionaries.qmd
+          - text: "Quest 8: Fibonacci - Pattern Practice"
+            file: lessons/08-fibonacci.qmd
+      - section: "Continue the Journey"
+        contents:
+          - text: "Quest 9: Sorting - Organizing Data"
+            file: lessons/09-sorting.qmd
+          - text: "Quest 10: Number Game - Guess and Check"
+            file: lessons/10-number-game.qmd
+          - text: "Quest 11: Recursion - Functions Calling Themselves"
+            file: lessons/11-recursion.qmd
+          - text: "Quest 12: Complexity - Why Speed Matters"
+            file: lessons/12-complexity.qmd
+          - text: "Quest 13: Iterative Loops - Pick the Right Loop"
+            file: lessons/13-iterative-loops.qmd
+      - section: "Rust Patterns"
+        contents:
+          - text: "Quest 14: Functions Part 2 - Non-Returning"
+            file: lessons/14-functions-non-returning.qmd
+          - text: "Quest 15: Functions Part 3 - Returning Values"
+            file: lessons/15-functions-returning.qmd
+          - text: "Quest 16: Closures - Quick Function Tools"
+            file: lessons/16-lambda-functions.qmd
+          - text: "Quest 17: Higher-Order Functions"
+            file: lessons/17-higher-order-functions.qmd
+          - text: "Quest 18: Wrappers - Add Behavior"
+            file: lessons/18-decorators.qmd
+          - text: "Quest 19: Structs and Impl - Rust Blueprints"
+            file: lessons/19-classes.qmd
+      - section: "What Next?"
+        contents:
+          - text: "Rust Practice Tools"
+            file: interactive.qmd
+          - text: "All Rust Quests"
+            file: all-quests.qmd
+
+format:
+  live-html:
+    theme: 
+      - cosmo
+      - custom.scss
+    css: styles.css
+    include-in-header:
+      - theme-toggle.js
+    toc: true
+    toc-depth: 2
+    code-copy: true
+    code-tools: true
+    smooth-scroll: true
+    fontsize: 1.1em
+    linestretch: 1.7
+    fig-cap-location: bottom
+    code-overflow: wrap
+    
+execute:
+  freeze: auto
+  echo: true
+  warning: false
+  message: false

@@ -1,0 +1,238 @@
+---
+title: "Rust Quest - Coding Adventures"
+subtitle: "Friendly Rust Mini-Lessons for Complete Beginners"
+format:
+  live-html:
+    toc: false
+---
+
+::: {.hero}
+# 🦀 Welcome to Rust Quest!
+
+Embark on a beginner-friendly journey into Rust. Each quest is a short adventure with examples, explanations, and gentle challenges.
+:::
+
+## 🎯 What is Rust Quest?
+
+Rust Quest is a collection of mini-lessons designed to make Rust feel approachable, practical, and fun. Each quest includes:
+
+- 📖 A friendly introduction and context
+- 💡 Clear Rust examples with step-by-step ideas
+- 🎯 Gentle challenges for first-time Rust learners
+- 👨‍💻 Code snippets you can try in Rust Playground or locally
+- ✅ Solutions to check your work
+
+These lessons are built for students who have **never used Rust before**. Questions and feedback are always welcome!
+
+* Contact: Oliver Bonham-Carter
+* Email: obonhamcarter at allegheny.edu
+  * website: [https://www.oliverbonhamcarter.com](https://www.oliverbonhamcarter.com)
+* Allegheny College: Department of Computer and Information Science
+  * website: [https://cs.allegheny.edu](https://cs.allegheny.edu)
+
+## 🧪 Ways to Practice Rust
+
+::: {.highlight-box .highlight-info}
+**Choose your preferred Rust coding environment:**
+
+1. **🌐 Rust Playground** - Run Rust in your browser ([Open Playground →](https://play.rust-lang.org/))
+2. **💻 Local Rust** - Install `rustup` and use `cargo run`
+3. **📓 Lesson Notebooks** - Read lesson notebooks with Rust examples and prompts
+
+[Learn more about interactive options →](interactive.qmd)
+:::
+
+## 🗺️ Your Rust Quest Map
+
+<div class="quest-grid">
+
+::: {.quest-card}
+### 🎒 Quest 1: Variables
+**Your Starter Toolkit**
+
+Learn how Rust stores values, and when to use immutable vs mutable variables.
+
+[Start Quest →](lessons/01-variables.qmd)
+:::
+
+::: {.quest-card}
+### 🔷 Quest 2: Data Types
+**The Shape of Data**
+
+Discover integers, floats, booleans, chars, and strings in Rust.
+
+[Start Quest →](lessons/02-data-types.qmd)
+:::
+
+::: {.quest-card}
+### 🛤️ Quest 3: Conditionals
+**Choose Your Path**
+
+Make decisions with `if`, `else`, and boolean expressions.
+
+[Start Quest →](lessons/03-conditionals.qmd)
+:::
+
+::: {.quest-card}
+### 🔄 Quest 4: Loops
+**Repeat with Confidence**
+
+Use `loop`, `while`, and `for` to repeat work safely.
+
+[Start Quest →](lessons/04-loops.qmd)
+:::
+
+::: {.quest-card}
+### 📦 Quest 5: Vectors
+**Collecting Data**
+
+Store and update many values with `Vec<T>`.
+
+[Start Quest →](lessons/05-lists.qmd)
+:::
+
+::: {.quest-card}
+### ✨ Quest 6: Functions
+**Reusable Steps**
+
+Break code into reusable functions with parameters and return values.
+
+[Start Quest →](lessons/06-functions.qmd)
+:::
+
+::: {.quest-card}
+### 🗝️ Quest 7: HashMaps
+**Keys and Values**
+
+Store key-value data using `HashMap`.
+
+[Start Quest →](lessons/07-dictionaries.qmd)
+:::
+
+::: {.quest-card}
+### 🌟 Quest 8: Fibonacci
+**Pattern Practice**
+
+Practice loops and functions by generating Fibonacci numbers.
+
+[Start Quest →](lessons/08-fibonacci.qmd)
+:::
+
+::: {.quest-card}
+### 📊 Quest 9: Sorting
+**Organizing Data**
+
+Sort vectors and reason about ordering steps.
+
+[Start Quest →](lessons/09-sorting.qmd)
+:::
+
+::: {.quest-card}
+### 🎲 Quest 10: Number Game
+**Guess and Check**
+
+Build a tiny game using loops and decisions.
+
+[Start Quest →](lessons/10-number-game.qmd)
+:::
+
+::: {.quest-card}
+### 🔁 Quest 11: Recursion
+**Functions Calling Themselves**
+
+Use base cases and recursive steps safely.
+
+[Start Quest →](lessons/11-recursion.qmd)
+:::
+
+::: {.quest-card}
+### ⚡ Quest 12: Complexity
+**Why Speed Matters**
+
+Compare simple growth patterns like $O(n)$.
+
+[Start Quest →](lessons/12-complexity.qmd)
+:::
+
+::: {.quest-card}
+### 🔄 Quest 13: Iterative Loops
+**Pick the Right Loop**
+
+Choose `for`, `while`, or `loop` with confidence.
+
+[Start Quest →](lessons/13-iterative-loops.qmd)
+:::
+
+::: {.quest-card}
+### 🧩 Quest 14: Functions Part 2
+**Non-Returning**
+
+Write clean action functions for output and workflow.
+
+[Start Quest →](lessons/14-functions-non-returning.qmd)
+:::
+
+::: {.quest-card}
+### 🎁 Quest 15: Functions Part 3
+**Returning Values**
+
+Build reusable functions that compute and return results.
+
+[Start Quest →](lessons/15-functions-returning.qmd)
+:::
+
+::: {.quest-card}
+### ⚡ Quest 16: Closures
+**Quick Function Tools**
+
+Use inline closures with iterator pipelines.
+
+[Start Quest →](lessons/16-lambda-functions.qmd)
+:::
+
+::: {.quest-card}
+### 🧠 Quest 17: Higher-Order Functions
+**Behavior as Input**
+
+Pass closures into functions for flexible design.
+
+[Start Quest →](lessons/17-higher-order-functions.qmd)
+:::
+
+::: {.quest-card}
+### 🎁 Quest 18: Wrappers
+**Add Behavior Around Functions**
+
+Apply decorator-like wrapper patterns in Rust.
+
+[Start Quest →](lessons/18-decorators.qmd)
+:::
+
+::: {.quest-card}
+### 🏗️ Quest 19: Structs and Impl
+**Rust Blueprints**
+
+Model data and methods with Rust structs.
+
+[Start Quest →](lessons/19-classes.qmd)
+:::
+
+</div>
+
+## 📱 Access on Your Phone
+
+Each quest can still be shared by URL or QR code for quick mobile access.
+
+## 🎓 Ready to Start?
+
+Start with Quest 1 and move forward step by step. Rust rewards steady practice.
+
+::: {.tip-box}
+**💡 Pro Tip**: Each quest is independent, so you can jump around based on what interests you most. But if you're brand new to coding, starting from Quest 1 is a great idea!
+:::
+
+---
+
+<div style="text-align: center; padding: 2rem;">
+**Happy Rusting! May your compiler errors teach you something useful.** 🦀✨
+</div>
