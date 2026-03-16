@@ -1,0 +1,170 @@
+---
+title: "🎓 Allegheny College Computer Science - College Fair"
+subtitle: "Welcome Future Computer Scientists! Start Your CS Adventure Here"
+format:
+  live-html:
+    toc: false
+---
+
+::: {.hero}
+# 🦀 Welcome to CS Quest!
+
+**Discover Computer Science at Allegheny College**
+
+Interactive quests designed to help you explore what Computer Science really is—and whether it's right for you!
+:::
+
+## 🎯 Start Your 15-Minute CS Discovery!
+
+Perfect for college fair visitors! Complete these 5 interactive quests to:
+
+✅ Understand what Computer Science actually is  
+✅ See how CS appears in your daily life  
+✅ Explore career opportunities and salaries  
+✅ Write your very first program!  
+✅ Discover your next steps
+
+<div class="quest-grid">
+
+::: {.quest-card}
+### 🌟 Quest 1: What IS Computer Science?
+**3 minutes**
+
+Discover CS beyond just coding—it's problem solving, creativity, and innovation!
+
+[Start Quest 1 →](demo/00-welcome-to-cs.qmd)
+:::
+
+::: {.quest-card}
+### 🔍 Quest 2: CS in Your Daily Life
+**2 minutes**
+
+Uncover the hidden CS behind your smartphone, Netflix, and more!
+
+[Start Quest 2 →](demo/00-cs-daily-life.qmd)
+:::
+
+::: {.quest-card}
+### 💼 Quest 3: Why Study CS?
+**3 minutes**
+
+Explore careers, salaries ($100K+ median!), and why Allegheny is special.
+
+[Start Quest 3 →](demo/00-why-study-cs.qmd)
+:::
+
+::: {.quest-card}
+### ⚡ Quest 4: Write Your First Program!
+**5 minutes**
+
+Experience the thrill of coding! No experience needed—just curiosity!
+
+[Start Quest 4 →](demo/00-try-it-yourself.qmd)
+:::
+
+::: {.quest-card}
+### 🗺️ Quest 5: What's Next?
+**2 minutes**
+
+Get your personalized action plan for continuing your CS journey!
+
+[Start Quest 5 →](demo/00-whats-next.qmd)
+:::
+
+</div>
+
+## 🚀 After the Fair: Continue Learning!
+
+Enjoyed the demo quests? We have **19 more in-depth Rust programming quests** waiting for you!
+
+::: {.highlight-box .highlight-info}
+**🦀 Rust Coding Quests**
+
+Learn Rust programming from scratch with hands-on challenges:
+- Variables, Types, Functions (Quests 1-6)
+- Build Real Programs (Quests 7-10)
+- Algorithms & Patterns (Quests 11-19)
+
+[Explore All 19 Coding Quests →](index.qmd)
+:::
+
+## 📊 Quick Facts About CS at Allegheny
+
+::: {.highlight-box .highlight-success}
+**💰 Career Outlook:**
+- Median salary: $100,530/year
+- 15% job growth through 2032
+- Work from anywhere opportunities
+- Every industry needs CS talent
+
+**🎓 Allegheny Advantages:**
+- Small classes, personal attention
+- Hands-on learning from day one
+- Liberal arts + technical skills
+- Strong alumni network
+- Research opportunities
+
+**🌈 Flexible Options:**
+- Major, Minor, or just try a course!
+- Pair CS with ANY other field
+- No prior experience needed
+:::
+
+## 📱 Save This Site!
+
+**Bookmark this page** to return anytime:
+
+🔗 **[Your College Fair Landing Page URL]**
+
+Or scan the QR code at our booth!
+
+## 📞 Connect With Us
+
+::: {.tip-box}
+**📧 Email:** [cs@allegheny.edu](mailto:cs@allegheny.edu)  
+**🌐 Website:** [cs.allegheny.edu](https://cs.allegheny.edu)  
+**📍 Location:** Alden Hall, Allegheny College  
+**📆 Schedule Visit:** [allegheny.edu/visit](https://allegheny.edu/visit)
+
+**Questions? Talk to:**
+- Oliver Bonham-Carter: [obonhamcarter@allegheny.edu](mailto:obonhamcarter@allegheny.edu)
+- Visit: [oliverbonhamcarter.com](https://www.oliverbonhamcarter.com)
+:::
+
+## 🎓 Your Action Plan
+
+**Today at the Fair:**
+- [ ] Complete the 5 Demo Quests (15 min)
+- [ ] Talk to CS professors and students
+- [ ] Pick up CS department materials
+- [ ] Save this website URL
+
+**This Week:**
+- [ ] Try Coding Quests 1-5
+- [ ] Email the CS department with questions
+- [ ] Explore [Rust Playground](https://play.rust-lang.org/)
+- [ ] Tell a friend about CS!
+
+**This Month:**
+- [ ] Schedule an Allegheny campus visit
+- [ ] Research CS + your other interests
+- [ ] Complete 10+ coding quests
+- [ ] Follow Allegheny CS on social media
+
+---
+
+::: {.hero}
+# 🚀 Ready to Begin?
+
+**Click below to start your CS adventure!**
+
+[🌟 Start Quest 1: What IS Computer Science? →](demo/00-welcome-to-cs.qmd)
+
+</:::
+
+---
+
+<div style="text-align: center; padding: 2rem;">
+**Welcome to the world of Computer Science!** 💻✨  
+We can't wait to see what you'll create.
+</div>

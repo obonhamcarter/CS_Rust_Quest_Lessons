@@ -1,0 +1,133 @@
+---
+title: "Welcome Quest: What IS Computer Science?"
+subtitle: "Discover the Adventure of Problem Solving, Creativity & Innovation"
+format:
+  live-html:
+    toc: false
+---
+
+::: {.quest-badge}
+🌟 WELCOME QUEST | Difficulty: Beginner | Time: 3 minutes
+:::
+
+::: {.hero}
+# 🗺️ Welcome, Adventurer!
+
+Before you begin your coding journey, let's discover what Computer Science really is—and why it might be the perfect adventure for you.
+:::
+
+## 🤔 What is Computer Science?
+
+Computer Science is **much more than just coding**. It's the art and science of:
+
+::: {.highlight-box .highlight-info}
+✨ **Problem Solving** - Breaking down complex challenges into solvable steps  
+🎨 **Creativity** - Designing elegant solutions and building new things  
+🤝 **Collaboration** - Working in teams to create something bigger  
+🚀 **Innovation** - Shaping the future with technology  
+💡 **Logical Thinking** - Understanding patterns and systems  
+:::
+
+## 🎮 CS in Action: Real-World Examples
+
+Computer Scientists create the technology you use every day:
+
+<div class="quest-grid">
+
+::: {.quest-card}
+### 🎵 Music Recommendations
+Ever wonder how Spotify knows what you'll love? That's **machine learning algorithms** analyzing patterns in millions of songs!
+:::
+
+::: {.quest-card}
+### 🗺️ Navigation Systems
+Google Maps finding the fastest route through thousands of streets? That's **graph algorithms** and **optimization** at work!
+:::
+
+::: {.quest-card}
+### 🎮 Video Games
+From realistic physics to intelligent NPCs, games use **3D graphics**, **AI**, and **real-time systems**!
+:::
+
+::: {.quest-card}
+### 🏥 Medical Imaging
+CT scans and MRIs use **image processing algorithms** to help doctors see inside the human body!
+:::
+
+::: {.quest-card}
+### 🌍 Climate Modeling
+Scientists use **supercomputers** and **simulations** to predict weather and understand climate change!
+:::
+
+::: {.quest-card}
+### 🎨 Social Media Filters
+Those fun Snapchat and Instagram filters? That's **computer vision** and **augmented reality**!
+:::
+
+</div>
+
+## 🎯 What Computer Scientists Actually Do
+
+::: {.highlight-box .highlight-success}
+**You don't have to code all day!** Computer Scientists:
+
+- 🧠 **Design** solutions to important problems
+- 🔍 **Analyze** data to find insights
+- 🎨 **Create** apps, games, and tools
+- 🤝 **Collaborate** with experts in other fields
+- 🔬 **Research** new technologies
+- 📊 **Optimize** systems to work faster and better
+- 🎓 **Teach** and mentor others
+:::
+
+## 💭 The CS Mindset
+
+Computer Science teaches you to think like a problem solver:
+
+1. **Break it down** - Turn big problems into smaller steps
+2. **Find patterns** - Recognize what you've seen before
+3. **Think creatively** - Design elegant solutions
+4. **Test and iterate** - Learn from what works and what doesn't
+5. **Never stop learning** - Technology always evolves
+
+::: {.tip-box}
+**💡 Did You Know?**
+
+Computer Science combines with **everything**:
+
+- Biology + CS = Bioinformatics (DNA sequencing, drug discovery)
+- Art + CS = Digital Media (animation, game design)
+- Business + CS = Data Analytics (market trends, optimization)
+- Music + CS = Audio Engineering (sound synthesis, effects)
+- Psychology + CS = Human-Computer Interaction (UX design)
+:::
+
+## 🚀 Your CS Adventure Starts Here
+
+Computer Science isn't just a field—it's a way of thinking that opens doors to **every industry**. Whether you want to:
+
+- 🎮 Build the next hit game
+- 🌍 Solve global challenges
+- 💰 Start your own tech company
+- 🏥 Improve healthcare
+- 🎨 Create digital art
+- 📱 Design the apps everyone uses
+
+...Computer Science gives you the tools to make it happen!
+
+::: {.quest-complete}
+### ✨ Welcome Quest Complete!
+
+You've discovered what Computer Science really is. Ready to see how it appears in your daily life?
+
+**Next Quest:** [CS in Your Daily Life →](00-cs-daily-life.qmd)
+:::
+
+---
+
+::: {.tip-box}
+**🎓 Want to learn more?**
+
+Visit the Allegheny College Department of Computer and Information Science:  
+🌐 [https://cs.allegheny.edu](https://cs.allegheny.edu)
+:::

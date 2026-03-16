@@ -3,8 +3,14 @@ project:
   output-dir: _site
   render:
     - "index.qmd"
+    - "college-fair.qmd"
     - "all-quests.qmd"
     - "interactive.qmd"
+    - "demo/00-welcome-to-cs.qmd"
+    - "demo/00-cs-daily-life.qmd"
+    - "demo/00-why-study-cs.qmd"
+    - "demo/00-try-it-yourself.qmd"
+    - "demo/00-whats-next.qmd"
     - "lessons/01-variables.qmd"
     - "lessons/02-data-types.qmd"
     - "lessons/03-conditionals.qmd"
@@ -38,6 +44,8 @@ website:
     left:
       - text: "Home"
         file: index.qmd
+      - text: "🎓 College Fair"
+        file: college-fair.qmd
       - text: "All Quests"
         file: all-quests.qmd
       - text: "🧪 Practice Tools"
@@ -49,7 +57,19 @@ website:
     style: "docked"
     search: true
     contents:
-      - section: "Begin Your Rust Journey"
+      - section: "🌟 College Fair Demo Track"
+        contents:
+          - text: "Welcome: What IS Computer Science?"
+            file: demo/00-welcome-to-cs.qmd
+          - text: "Discovery: CS in Your Daily Life"
+            file: demo/00-cs-daily-life.qmd
+          - text: "Career: Why Study CS?"
+            file: demo/00-why-study-cs.qmd
+          - text: "First Code: Write Your First Program!"
+            file: demo/00-try-it-yourself.qmd
+          - text: "Next Steps: Continue Your Journey"
+            file: demo/00-whats-next.qmd
+      - section: "🦀 Rust Coding Quests (Foundation)"
         contents:
           - text: "Quest 1: Variables - Your Starter Toolkit"
             file: lessons/01-variables.qmd
@@ -67,19 +87,21 @@ website:
             file: lessons/07-dictionaries.qmd
           - text: "Quest 8: Fibonacci - Pattern Practice"
             file: lessons/08-fibonacci.qmd
-      - section: "Continue the Journey"
+      - section: "🎮 Rust Coding Quests (Practice)"
         contents:
           - text: "Quest 9: Sorting - Organizing Data"
             file: lessons/09-sorting.qmd
           - text: "Quest 10: Number Game - Guess and Check"
             file: lessons/10-number-game.qmd
+      - section: "🧠 Rust Coding Quests (Intermediate)"
+        contents:
           - text: "Quest 11: Recursion - Functions Calling Themselves"
             file: lessons/11-recursion.qmd
           - text: "Quest 12: Complexity - Why Speed Matters"
             file: lessons/12-complexity.qmd
           - text: "Quest 13: Iterative Loops - Pick the Right Loop"
             file: lessons/13-iterative-loops.qmd
-      - section: "Rust Patterns"
+      - section: "🚀 Rust Coding Quests (Advanced)"
         contents:
           - text: "Quest 14: Functions Part 2 - Non-Returning"
             file: lessons/14-functions-non-returning.qmd

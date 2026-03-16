@@ -1,0 +1,227 @@
+---
+title: "Career Quest: Why Study Computer Science?"
+subtitle: "Discover Career Opportunities, Flexibility, and Future Potential"
+format:
+  live-html:
+    toc: false
+---
+
+::: {.quest-badge}
+💼 CAREER QUEST | Difficulty: Beginner | Time: 3 minutes
+:::
+
+::: {.hero}
+# 🎓 Why Study Computer Science at Allegheny?
+
+Computer Science opens doors to virtually **every career field**. Let's explore the opportunities waiting for you!
+:::
+
+## 💰 The Numbers Don't Lie
+
+::: {.highlight-box .highlight-success}
+**📊 Career Outlook**
+
+- 💵 **Median Salary:** $100,530 per year (US Bureau of Labor Statistics, 2024)
+- 📈 **Job Growth:** 15% growth through 2032 (much faster than average)
+- 🌍 **Remote Work:** Many CS jobs offer location flexibility
+- 🚀 **Startup Potential:** Strong foundation for entrepreneurship
+- 🎯 **Industry Demand:** Every company needs tech talent
+:::
+
+## 🎯 Paths at Allegheny: Choose Your Own Adventure!
+
+You don't have to go "all in" right away. Allegheny offers flexible options:
+
+<div class="quest-grid">
+
+::: {.quest-card}
+### 🎓 Computer Science Major
+**Deep Dive into CS**
+
+- Core programming & algorithms
+- Software engineering
+- Data structures & databases
+- AI, machine learning, cybersecurity
+- Senior project/capstone
+
+**Perfect for:** Future software engineers, researchers, tech leaders
+:::
+
+::: {.quest-card}
+### ⭐ Computer Science Minor
+**CS Skills + Your Passion**
+
+- Foundation in programming
+- Problem-solving skills
+- Data analysis basics
+- Applied computing
+
+**Perfect for:** Pairing CS with biology, business, art, psychology, etc.
+:::
+
+::: {.quest-card}
+### 🧪 Just Take a Course!
+**Explore & Discover**
+
+- Try CMPSC 100 (Intro)
+- No commitment needed
+- See if you enjoy it
+- Gain valuable skills
+
+**Perfect for:** Anyone curious about CS
+:::
+
+</div>
+
+## 🌈 CS Pairs with EVERYTHING!
+
+Computer Science is unique—it enhances **any other field** you're interested in:
+
+::: {.highlight-box .highlight-info}
+**🔬 Biology + CS = Bioinformatics**  
+Analyze DNA sequences, model diseases, discover new drugs
+
+**🎨 Art + CS = Digital Media & Game Design**  
+Create animations, design games, build interactive experiences
+
+**📊 Business + CS = Data Analytics & Tech Management**  
+Analyze markets, optimize operations, lead tech companies
+
+**🎵 Music + CS = Audio Engineering & Music Technology**  
+Synthesize sound, create effects, build music apps
+
+**🧠 Psychology + CS = Human-Computer Interaction**  
+Design user experiences, study digital behavior, improve accessibility
+
+**🌍 Environmental Science + CS = Climate Modeling**  
+Simulate climate systems, analyze environmental data, predict changes
+
+**📝 Writing + CS = Technical Communication & UX**  
+Write documentation, design interfaces, explain complex ideas
+
+**🏥 Health + CS = Medical Informatics**  
+Build health apps, analyze patient data, improve healthcare systems
+:::
+
+## 💼 What Jobs Can You Get?
+
+CS graduates work in diverse roles across all industries:
+
+### 💻 Traditional Tech Roles
+
+- Software Engineer / Developer
+- Web Developer
+- Mobile App Developer
+- Game Developer
+- Systems Administrator
+- Database Administrator
+
+### 🤖 Emerging Tech Roles
+
+- AI/Machine Learning Engineer
+- Data Scientist
+- Cybersecurity Analyst
+- Cloud Engineer
+- DevOps Engineer
+- UX/UI Designer
+
+### 🎯 Interdisciplinary Roles
+
+- Bioinformatics Scientist
+- Digital Artist / Animator
+- Quantitative Analyst (Finance)
+- Research Scientist
+- Technical Writer
+- Product Manager
+
+### 🚀 Entrepreneurship
+
+- Start your own tech company
+- Build and sell apps
+- Freelance developer
+- Tech consultant
+
+## 🏛️ Why Allegheny College?
+
+::: {.highlight-box .highlight-success}
+**🎓 Small Classes, Personal Attention**
+
+- Work directly with professors, not teaching assistants
+- Collaborative learning environment
+- Close-knit CS community
+
+**🔬 Hands-On Learning**
+
+- Build real projects from day one
+- Senior capstone project
+- Research opportunities with faculty
+
+**🌍 Liberal Arts + CS**
+
+- Combine CS with humanities, sciences, arts
+- Develop communication & critical thinking
+- Become a well-rounded professional
+
+**💼 Career Support**
+
+- Internship connections
+- Alumni network
+- Career preparation workshops
+- Job placement support
+
+**🏢 Location Benefits**
+
+- Close to Pittsburgh tech scene
+- Near major tech companies
+- Regional conference attendance
+- Industry partnerships
+:::
+
+## 📈 Start Wherever You Are
+
+**No experience needed!** Our students come from all backgrounds:
+
+- ✅ Never coded before? Perfect!
+- ✅ Some experience? Great!
+- ✅ Not sure if CS is for you? Try a course!
+- ✅ Want to major or minor? We support both!
+
+::: {.tip-box}
+**💡 Real Student Path Examples:**
+
+**Priya:** Biology major + CS minor → Now doing genomics research at NIH  
+**Marcus:** CS major + Art minor → Working at gaming company  
+**Sophia:** Entered undecided → Discovered CS sophomore year → Software engineer at Google  
+**Jordan:** CS major → Started AI healthcare startup  
+:::
+
+## 🎮 Ready to Try It?
+
+The best way to know if CS is for you is to **try it**!
+
+::: {.quest-complete}
+### ✨ Career Quest Complete!
+
+You've discovered the opportunities waiting in Computer Science. Ready to write your first program?
+
+**Next Quest:** [Try It Yourself! →](00-try-it-yourself.qmd)
+:::
+
+---
+
+::: {.highlight-box .highlight-info}
+**📞 Want to Learn More?**
+
+**Visit the CS Department:**
+
+- Website: [cs.allegheny.edu](https://cs.allegheny.edu)
+- Email: [cs@allegheny.edu](mailto:cs@allegheny.edu)
+- Schedule a Campus Visit
+
+**Questions?**
+
+- Talk to CS professors at the fair
+- Meet current CS students
+- Tour our CS labs
+- Sit in on a class
+:::

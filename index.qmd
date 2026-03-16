@@ -9,20 +9,63 @@ format:
 ::: {.hero}
 # 🦀 Welcome to Rust Quest!
 
-Embark on a beginner-friendly journey into Rust. Each quest is a short adventure with examples, explanations, and gentle challenges.
+Choose your adventure! Whether you're exploring Computer Science for the first time or ready to dive into coding, we have quests designed just for you.
 :::
 
-## 🎯 What is Rust Quest?
+## 🗺️ Choose Your Adventure Path
 
-Rust Quest is a collection of mini-lessons designed to make Rust feel approachable, practical, and fun. Each quest includes:
+<div class="quest-grid">
 
-- 📖 A friendly introduction and context
-- 💡 Clear Rust examples with step-by-step ideas
-- 🎯 Gentle challenges for first-time Rust learners
-- 👨‍💻 Code snippets you can try in Rust Playground or locally
+::: {.quest-card}
+### 🌟 NEW to Computer Science?
+**College Fair Demo Track** (5 Quests)
+
+Perfect for exploring CS before diving into code!
+
+- 🤔 What IS Computer Science?
+- 🔍 CS in Your Daily Life
+- 💼 Career Opportunities
+- ⚡ Write Your First Program!
+- 🎯 What's Next?
+
+**Time:** 15-20 minutes total  
+**Perfect for:** College fair visitors, CS explorers, curious students
+
+[Start Demo Track →](demo/00-welcome-to-cs.qmd)
+:::
+
+::: {.quest-card}
+### 🦀 READY to Code Rust?
+**Learning Track** (19 Coding Quests)
+
+Dive deep into Rust programming fundamentals!
+
+- 📚 Variables, Types, Functions
+- 🎮 Build Real Programs
+- 🧠 Learn Algorithms
+- 🚀 Master Rust Patterns
+
+**Time:** Self-paced, 8-10 min per quest  
+**Perfect for:** Students ready to learn programming
+
+[Start Quest 1 →](lessons/01-variables.qmd) | [View All Quests →](all-quests.qmd)
+:::
+
+</div>
+
+---
+
+## 🎯 About Rust Quest
+
+Rust Quest makes Computer Science and Rust programming approachable through interactive quests. Each quest includes:
+
+- 📖 Friendly introductions with context
+- 💡 Clear examples with step-by-step guidance
+- 🎯 Gentle challenges for beginners
+- 👨‍💻 Code you can try in your browser
 - ✅ Solutions to check your work
 
-These lessons are built for students who have **never used Rust before**. Questions and feedback are always welcome!
+**No prior experience needed!** Questions and feedback are always welcome.
 
 * Contact: Oliver Bonham-Carter
 * Email: obonhamcarter at allegheny.edu
@@ -42,7 +85,11 @@ These lessons are built for students who have **never used Rust before**. Questi
 [Learn more about interactive options →](interactive.qmd)
 :::
 
-## 🗺️ Your Rust Quest Map
+## 🦀 Learning Track: 19 Rust Coding Quests
+
+Ready to code? Explore all 19 Rust quests organized by skill level. Start with Quest 1 if you're brand new!
+
+### 🌱 Foundation Quests (1-6): Core Syntax
 
 <div class="quest-grid">
 
@@ -100,6 +147,12 @@ Break code into reusable functions with parameters and return values.
 [Start Quest →](lessons/06-functions.qmd)
 :::
 
+</div>
+
+### 🎮 Practice Quests (7-10): Apply Your Skills
+
+<div class="quest-grid">
+
 ::: {.quest-card}
 ### 🗝️ Quest 7: HashMaps
 **Keys and Values**
@@ -136,6 +189,12 @@ Build a tiny game using loops and decisions.
 [Start Quest →](lessons/10-number-game.qmd)
 :::
 
+</div>
+
+### 🧠 Intermediate Quests (11-13): Deeper Concepts
+
+<div class="quest-grid">
+
 ::: {.quest-card}
 ### 🔁 Quest 11: Recursion
 **Functions Calling Themselves**
@@ -162,6 +221,12 @@ Choose `for`, `while`, or `loop` with confidence.
 
 [Start Quest →](lessons/13-iterative-loops.qmd)
 :::
+
+</div>
+
+### 🚀 Advanced Quests (14-19): Rust Patterns
+
+<div class="quest-grid">
 
 ::: {.quest-card}
 ### 🧩 Quest 14: Functions Part 2
@@ -219,16 +284,18 @@ Model data and methods with Rust structs.
 
 </div>
 
-## 📱 Access on Your Phone
+## 🎓 Ready to Start Your Quest?
 
-Each quest can still be shared by URL or QR code for quick mobile access.
+**New to CS?** Begin with our [College Fair Demo Track →](demo/00-welcome-to-cs.qmd) to discover what Computer Science is all about!
 
-## 🎓 Ready to Start?
-
-Start with Quest 1 and move forward step by step. Rust rewards steady practice.
+**Ready to code?** Jump into [Quest 1: Variables →](lessons/01-variables.qmd) or [view all coding quests →](all-quests.qmd)
 
 ::: {.tip-box}
-**💡 Pro Tip**: Each quest is independent, so you can jump around based on what interests you most. But if you're brand new to coding, starting from Quest 1 is a great idea!
+**💡 Learning Path Guidance:**
+
+- **Complete Beginners:** Start with Demo Track → Then Quests 1-6
+- **Some Experience:** Jump to Quest 1 and progress sequentially
+- **Comfortable Coders:** Explore topics that interest you!
 :::
 
 ---

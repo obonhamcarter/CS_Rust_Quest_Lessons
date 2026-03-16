@@ -1,0 +1,252 @@
+---
+title: "Next Steps Quest: Continue Your CS Journey"
+subtitle: "Take Your Next Steps Toward a CS Adventure at Allegheny"
+format:
+  live-html:
+    toc: false
+---
+
+::: {.quest-badge}
+🗺️ NEXT STEPS QUEST | Difficulty: Beginner | Time: 2 minutes
+:::
+
+::: {.hero}
+# 🎯 Your CS Adventure Awaits!
+
+You've completed the College Fair Demo Track! Now let's map out your next steps.
+:::
+
+## 🎮 You've Completed 5 Quests!
+
+::: {.highlight-box .highlight-success}
+**🏆 Your Achievements:**
+
+✅ **Welcome Quest** - Discovered what Computer Science really is  
+✅ **Discovery Quest** - Found CS hidden in your daily life  
+✅ **Career Quest** - Explored CS opportunities at Allegheny  
+✅ **First Code Quest** - Wrote your first Rust programs!  
+✅ **Next Steps Quest** - You're here now!
+
+**You're officially ready to continue the adventure!**
+:::
+
+## 🚀 What's Next? Choose Your Path!
+
+<div class="quest-grid">
+
+::: {.quest-card}
+### 📚 Path 1: Keep Learning on This Site
+**Continue the Rust Quest Adventure**
+
+We have **19 more interactive quests** ready for you:
+
+- Start with [Quest 1: Variables](../lessons/01-variables.qmd)
+- Progress through fundamentals (Quests 1-8)
+- Build real programs (Quests 9-13)
+- Master advanced patterns (Quests 14-19)
+
+**Time:** Self-paced, 8-10 minutes per quest  
+**Perfect for:** Learning at home after the fair
+
+[View All 19 Quests →](../all-quests.qmd)
+:::
+
+::: {.quest-card}
+### 🎓 Path 2: Visit Allegheny's CS Department
+**Meet Faculty, Tour Labs, Experience Campus**
+
+Schedule a campus visit:
+
+- Tour our CS labs and facilities
+- Meet professors and current students
+- Sit in on a real CS class
+- Ask all your questions
+
+**Contact:**
+- 📧 [cs@allegheny.edu](mailto:cs@allegheny.edu)
+- 🌐 [cs.allegheny.edu](https://cs.allegheny.edu)
+- 📞 Call Admissions to schedule
+
+[Schedule a Visit →](https://allegheny.edu/visit)
+:::
+
+::: {.quest-card}
+### 💬 Path 3: Talk to CS People Today!
+**Connect at the College Fair**
+
+- 🎓 Talk to CS professors here at the fair
+- 👥 Meet current CS students
+- 💼 Ask about internships and careers
+- 📋 Get information on courses and programs
+
+**Don't be shy!** We LOVE talking about CS, and all your questions are welcome!
+:::
+
+</div>
+
+## 📱 Save This Site!
+
+Make sure you can find your way back to these Rust Quests:
+
+::: {.highlight-box .highlight-info}
+**🔖 Bookmark This Site**
+
+Scan this QR code or save the URL:
+
+[YOUR WEBSITE URL HERE]
+
+**Or email yourself the link right now!**
+:::
+
+## 📋 Your Action Checklist
+
+Here's what you can do **right now** to continue your CS journey:
+
+::: {.highlight-box .highlight-success}
+**Today at the Fair:**
+
+- [ ] Talk to a CS professor or student
+- [ ] Pick up CS department materials
+- [ ] Save this website URL
+- [ ] Ask your burning questions!
+
+**This Week:**
+
+- [ ] Complete Quests 1-5 on this site
+- [ ] Explore [Rust Playground](https://play.rust-lang.org/)
+- [ ] Email the CS department with questions
+- [ ] Tell a friend about CS!
+
+**This Month:**
+
+- [ ] Schedule an Allegheny campus visit
+- [ ] Research CS + your interests
+- [ ] Try building a small project
+- [ ] Follow Allegheny CS on social media
+
+**Before Applying:**
+
+- [ ] Complete more Rust Quests (shoot for 10+)
+- [ ] Attend an Allegheny CS department event
+- [ ] Talk to your school counselor about CS
+- [ ] Explore CS scholarship opportunities
+:::
+
+## 🎓 Programs to Consider
+
+Remember, you have options at Allegheny:
+
+<div class="quest-grid">
+
+::: {.quest-card}
+### 🎓 Computer Science Major
+**For students who want to go deep into CS**
+
+- Core programming & algorithms
+- Software engineering
+- AI, cybersecurity, databases
+- Research opportunities
+- Senior capstone project
+
+**Leads to:** Software engineer, data scientist, AI researcher, etc.
+:::
+
+::: {.quest-card}
+### ⭐ Computer Science Minor
+**Pair CS with your primary interest**
+
+- Foundation in programming
+- Problem-solving skills
+- Applied computing
+- Flexible electives
+
+**Leads to:** CS-enhanced careers in any field
+:::
+
+::: {.quest-card}
+### 🧪 Just Try a Course!
+**No commitment, just exploration**
+
+- Start with CMPSC 100
+- See if you enjoy it
+- No prior experience needed
+- Can switch to major/minor later
+
+**Perfect for:** Testing the waters
+:::
+
+</div>
+
+## 💼 Career Reminder
+
+Computer Science graduates are in high demand:
+
+::: {.highlight-box .highlight-info}
+**Quick Stats:**
+
+- 💵 Median salary: $100,530/year
+- 📈 15% job growth through 2032
+- 🌍 Work from anywhere opportunities
+- 🚀 Endless career possibilities
+- 🎯 Skills that apply to every industry
+:::
+
+## 🙋 Frequently Asked Questions
+
+**Q: Do I need prior programming experience?**  
+A: **No!** Most CS students start with zero experience. That's what classes are for!
+
+**Q: Is CS just sitting alone coding all day?**  
+A: **No!** CS involves teamwork, creativity, problem-solving, and communication. Many CS jobs involve lots of collaboration.
+
+**Q: Can I combine CS with my other interests?**  
+A: **Absolutely!** CS pairs with everything: biology, art, business, psychology, music, and more.
+
+**Q: What if I'm not good at math?**  
+A: CS uses some math, but it's more about **logical thinking** and **problem-solving**. If you enjoy puzzles and patterns, you'll do great!
+
+**Q: Can I change my mind later?**  
+A: **Yes!** You can start as a major and switch to minor (or vice versa). You can even just take one course to try it out.
+
+**Q: Will AI replace programmers?**  
+A: **No!** AI is a *tool* that makes programmers more productive. The demand for people who understand CS and can use AI effectively is skyrocketing!
+
+## 🎉 Thanks for Joining the Quest!
+
+::: {.hero}
+You've taken the first step into the world of Computer Science. Whether you become a CS major, minor, or just someone who understands technology better, this knowledge will serve you well.
+
+**The adventure is just beginning!** 🚀
+:::
+
+::: {.quest-complete}
+### ✨ College Fair Demo Track Complete!
+
+You've finished all 5 demo quests. Ready to dive deeper?
+
+**Continue Your Journey:**
+
+- [🦀 Start Quest 1: Variables →](../lessons/01-variables.qmd)
+- [📚 View All 19 Quests →](../all-quests.qmd)
+- [🏠 Return to Home Page →](../index.qmd)
+:::
+
+---
+
+::: {.highlight-box .highlight-success}
+**📞 Stay Connected**
+
+**Allegheny College - Department of Computer and Information Science**
+
+🌐 Website: [cs.allegheny.edu](https://cs.allegheny.edu)  
+📧 Email: [cs@allegheny.edu](mailto:cs@allegheny.edu)  
+📱 Social: Follow @AlleghenyCS
+
+**Questions? Contact:**
+
+- Oliver Bonham-Carter
+- Email: [obonhamcarter@allegheny.edu](mailto:obonhamcarter@allegheny.edu)
+- Website: [https://www.oliverbonhamcarter.com](https://www.oliverbonhamcarter.com)
+
+**We can't wait to see what you'll build!** 🎓
+:::

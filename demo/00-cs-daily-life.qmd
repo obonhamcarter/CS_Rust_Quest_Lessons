@@ -1,0 +1,176 @@
+---
+title: "Discovery Quest: CS in Your Daily Life"
+subtitle: "Uncover the Hidden Computer Science Behind Your Everyday Activities"
+format:
+  live-html:
+    toc: false
+---
+
+::: {.quest-badge}
+🔍 DISCOVERY QUEST | Difficulty: Beginner | Time: 2 minutes
+:::
+
+::: {.hero}
+# 🌅 A Day Powered by Computer Science
+
+From the moment you wake up to when you go to sleep, Computer Science is working behind the scenes. Let's discover how!
+:::
+
+## ⏰ Morning: 7:00 AM - Your Adventure Begins
+
+<div class="quest-grid">
+
+::: {.quest-card}
+### 📱 7:00 AM - Alarm & Notifications
+Your phone's **operating system** manages apps, schedules alarms, and coordinates notifications—all running simultaneously!
+
+**CS Concepts:** Multithreading, Time Management, Operating Systems
+:::
+
+::: {.quest-card}
+### ☕ 7:30 AM - Smart Home
+Your smart speaker understands "play music" using **natural language processing** and **speech recognition**!
+
+**CS Concepts:** AI, Machine Learning, Voice Recognition
+:::
+
+::: {.quest-card}
+### 🚗 8:00 AM - Navigation
+Google Maps calculates the fastest route using **graph algorithms** analyzing real-time traffic from millions of phones!
+
+**CS Concepts:** Graph Theory, Algorithms, Data Structures
+:::
+
+</div>
+
+## 🏫 Midday: 12:00 PM - Connected & Learning
+
+<div class="quest-grid">
+
+::: {.quest-card}
+### 📸 12:00 PM - Social Media
+That filter that puts cat ears on your head? **Computer vision** tracks 68 facial landmarks in real-time!
+
+**CS Concepts:** Computer Vision, Image Processing, AR
+:::
+
+::: {.quest-card}
+### 🍕 12:30 PM - Food Delivery
+DoorDash optimizes delivery routes for multiple orders using **optimization algorithms** similar to the traveling salesman problem!
+
+**CS Concepts:** Optimization, Logistics, Algorithms
+:::
+
+::: {.quest-card}
+### 🎮 1:00 PM - Gaming Break
+Your game renders 60 frames per second, simulates physics, and runs enemy AI—all at once!
+
+**CS Concepts:** Graphics, Physics Simulation, Game AI
+:::
+
+</div>
+
+## 🌆 Evening: 6:00 PM - Entertainment & Connection
+
+<div class="quest-grid">
+
+::: {.quest-card}
+### 🎵 6:00 PM - Music Streaming
+Spotify's Discover Weekly analyzes your listening history and compares it to millions of users to find perfect recommendations!
+
+**CS Concepts:** Recommender Systems, Machine Learning, Big Data
+:::
+
+::: {.quest-card}
+### 📺 7:00 PM - Video Streaming
+Netflix uses **compression algorithms** to send HD video without buffering, and **prediction algorithms** to suggest what to watch!
+
+**CS Concepts:** Compression, Networking, ML Recommendations
+:::
+
+::: {.quest-card}
+### 💬 8:00 PM - Video Chat
+FaceTime compresses video, manages network connections, and syncs audio—all in real-time with minimal delay!
+
+**CS Concepts:** Video Compression, Networking, Real-time Systems
+:::
+
+</div>
+
+## 🌙 Night: 10:00 PM - Security & Privacy
+
+<div class="quest-grid">
+
+::: {.quest-card}
+### 🔒 Online Shopping
+When you buy something online, **encryption** protects your credit card using complex mathematical algorithms!
+
+**CS Concepts:** Cryptography, Security, Number Theory
+:::
+
+::: {.quest-card}
+### 🏥 Health Tracking
+Your fitness tracker analyzes heart rate patterns using **signal processing** to detect irregularities!
+
+**CS Concepts:** Signal Processing, Data Analysis, ML
+:::
+
+::: {.quest-card}
+### 🤖 Smart Suggestions
+Your keyboard predicts the next word using **natural language models** trained on billions of sentences!
+
+**CS Concepts:** NLP, Machine Learning, Probability
+:::
+
+</div>
+
+## 🎯 The Invisible Infrastructure
+
+Behind ALL of these apps are even more CS systems:
+
+::: {.highlight-box .highlight-info}
+**🌐 The Internet Itself**
+
+- **Networks** route data across continents in milliseconds
+- **Protocols** ensure devices communicate reliably
+- **Web servers** handle billions of requests per day
+- **Databases** store and retrieve information lightning-fast
+- **Cloud computing** provides power when and where it's needed
+:::
+
+## 💡 Every App is a CS Problem Solved
+
+Think about any app on your phone. Computer Scientists had to solve:
+
+- ✅ How to make it fast
+- ✅ How to keep your data secure
+- ✅ How to handle millions of users
+- ✅ How to make it easy to use
+- ✅ How to update it without breaking
+- ✅ How to work on different devices
+- ✅ How to use battery efficiently
+
+## 🚀 You Use CS Every Day... Now You Can Create It!
+
+Computer Science isn't just about using technology—it's about **building** the next generation of tools that will shape our world.
+
+::: {.tip-box}
+**🤔 Imagine This:**
+
+What if you could:
+
+- Build the next viral app?
+- Create an AI that helps doctors diagnose diseases?
+- Design a game that millions play?
+- Solve a problem that frustrates you daily?
+
+**That's what Computer Scientists do!**
+:::
+
+::: {.quest-complete}
+### ✨ Discovery Quest Complete!
+
+You've uncovered the hidden CS in your daily life. Now let's explore why studying CS at Allegheny could be your perfect path!
+
+**Next Quest:** [Why Study CS? →](00-why-study-cs.qmd)
+:::

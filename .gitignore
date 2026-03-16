@@ -23,6 +23,7 @@ ENV/
 .eggs/
 dist/
 build/
+_site/
 
 # QR Codes (generated files)
 qr_codes/

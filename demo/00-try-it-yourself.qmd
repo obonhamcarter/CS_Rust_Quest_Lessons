@@ -1,0 +1,243 @@
+---
+title: "First Code Quest: Write Your First Rust Program!"
+subtitle: "Experience the Thrill of Creating Something with Code"
+format:
+  live-html:
+    code-tools: true
+---
+
+::: {.quest-badge}
+⚡ FIRST CODE QUEST | Difficulty: Beginner | Time: 5 minutes
+:::
+
+::: {.hero}
+# 🎮 Your First Programming Challenge!
+
+Now it's time to **experience** what programming feels like. You're about to write your first Rust program!
+:::
+
+::: {.tip-box}
+**💻 Ready to Code?**
+
+Click here to open Rust Playground in a new tab:  
+**🦀 [Open Rust Playground →](https://play.rust-lang.org/)**
+
+Then come back here and follow along!
+:::
+
+## 🎯 Mission 1: Hello, World!
+
+Every programmer's first program! Let's start simple.
+
+### 📝 What to Do:
+
+1. Open [Rust Playground](https://play.rust-lang.org/)
+2. You'll see this code already there:
+
+```rust
+fn main() {
+    println!("Hello, world!");
+}
+```
+
+3. Click the green **"Run"** button at the top
+4. Watch the magic happen! You'll see output at the bottom:
+
+```
+Hello, world!
+```
+
+::: {.highlight-box .highlight-success}
+**🎉 Congratulations!** You just ran your first program!
+
+**What happened?**
+
+- `fn main()` - Every Rust program starts here
+- `println!` - A command that prints text to the screen
+- `"Hello, world!"` - The message you want to display
+:::
+
+## 🎯 Mission 2: Make It Personal!
+
+Now let's make it YOUR program!
+
+### 📝 Your Challenge:
+
+Change the message to say hello to YOU:
+
+```rust
+fn main() {
+    println!("Hello, I'm [YOUR NAME] and I'm learning Rust!");
+}
+```
+
+**Example:**
+```rust
+fn main() {
+    println!("Hello, I'm Alex and I'm learning Rust!");
+}
+```
+
+Click **Run** again and see your personalized message!
+
+::: {.quest-complete}
+### ✨ Mission 2 Complete!
+You modified a program and made it your own!
+:::
+
+## 🎯 Mission 3: Do Some Math!
+
+Computers are great at calculations. Let's try it!
+
+### 📝 Add this to your program:
+
+```rust
+fn main() {
+    println!("Hello, I'm learning Rust!");
+    
+    let my_age = 18;
+    let years_to_graduation = 4;
+    let graduation_age = my_age + years_to_graduation;
+    
+    println!("I'll graduate at age {}", graduation_age);
+}
+```
+
+**Try it with YOUR real age!** Change the number in `let my_age = 18;`
+
+::: {.highlight-box .highlight-info}
+**What's happening here?**
+
+- `let my_age = 18;` - Creates a variable (storage box) for your age
+- `let years_to_graduation = 4;` - Stores how many years until graduation
+- `let graduation_age = my_age + years_to_graduation;` - Does the math!
+- `println!("... {}", graduation_age);` - Shows the result (the `{}` is filled with your age)
+:::
+
+::: {.quest-complete}
+### ✨ Mission 3 Complete!
+You used variables and did calculations!
+:::
+
+## 🎯 Mission 4: Make a Choice!
+
+Programs make decisions. Let's try it!
+
+### 📝 Try this code:
+
+```rust
+fn main() {
+    let temperature = 75;
+    
+    if temperature > 80 {
+        println!("It's hot! Time for ice cream! 🍦");
+    } else if temperature > 60 {
+        println!("Perfect weather! Let's go outside! ☀️");
+    } else {
+        println!("It's cold! Hot chocolate time! ☕");
+    }
+}
+```
+
+**Experiment:** Try changing `temperature` to different numbers (like 50, 70, or 90) and run it again!
+
+::: {.highlight-box .highlight-success}
+**🧠 You just learned:**
+
+- **Variables** - Storing information
+- **Math** - Performing calculations
+- **Decisions** - Making choices with `if/else`
+
+**This is the foundation of ALL programming!**
+:::
+
+## 🎯 BONUS Mission: Be Creative!
+
+Now it's YOUR turn to create something!
+
+### 💡 Ideas to Try:
+
+**1. Make a Character:**
+```rust
+fn main() {
+    let hero_name = "Dragon Slayer";
+    let hero_level = 5;
+    let hero_health = 100;
+    
+    println!("Character: {}", hero_name);
+    println!("Level: {}", hero_level);
+    println!("Health: {}", hero_health);
+}
+```
+
+**2. Calculate Something Cool:**
+```rust
+fn main() {
+    let songs_per_day = 20;
+    let days_per_year = 365;
+    let total_songs = songs_per_day * days_per_year;
+    
+    println!("I listen to {} songs per year! 🎵", total_songs);
+}
+```
+
+**3. Make a Decision System:**
+```rust
+fn main() {
+    let hours_studied = 3;
+    
+    if hours_studied >= 4 {
+        println!("Great job! You're ready for the test! ⭐");
+    } else if hours_studied >= 2 {
+        println!("Good start! Study a bit more! 📚");
+    } else {
+        println!("Time to hit the books! 💪");
+    }
+}
+```
+
+## 🎉 What You Just Accomplished!
+
+::: {.highlight-box .highlight-success}
+**In just a few minutes, you:**
+
+✅ Ran your first program  
+✅ Modified code to make it personal  
+✅ Used variables to store information  
+✅ Did mathematical calculations  
+✅ Made decisions with if/else statements  
+✅ Created output that users can see
+
+**You're officially a programmer!** 🎊
+:::
+
+## 🚀 What's Next?
+
+This is just the **beginning** of your CS adventure. If you enjoyed this, imagine what you could build with more practice:
+
+- 🎮 Video games with graphics and sound
+- 📱 Mobile apps used by millions
+- 🤖 AI that can recognize images or generate text
+- 🌐 Websites that connect people
+- 🔒 Security systems that protect data
+- 🎨 Digital art and animations
+
+::: {.quest-complete}
+### ✨ First Code Quest Complete!
+
+You've written your first programs and experienced the power of code! Ready to explore what comes next?
+
+**Next Quest:** [What's Next? →](00-whats-next.qmd)
+:::
+
+---
+
+::: {.tip-box}
+**🎓 Want to Learn More Rust?**
+
+After the fair, you can explore **19 more Rust Quests** on this site:
+
+- [Quest 1: Variables →](../lessons/01-variables.qmd)
+- [Quest 2: Data Types →](../lessons/02-data-types.qmd)
+- [View All Quests →](../all-quests.qmd)
+:::
