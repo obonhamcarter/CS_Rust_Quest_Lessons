@@ -238,7 +238,7 @@ You've finished all 5 demo quests. Ready to dive deeper?
 
 **Allegheny College - Department of Computer and Information Science**
 
-🌐 Website: [cs.allegheny.edu](https://cs.allegheny.edu)  
+🌐 Website: [www.allegheny.edu](https://www.allegheny.edu)  
 📧 Email: [cs@allegheny.edu](mailto:cs@allegheny.edu)  
 📱 Social: Follow @AlleghenyCS
 
